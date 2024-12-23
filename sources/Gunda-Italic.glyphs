@@ -171,10 +171,6 @@ size = 43;
 );
 },
 {
-name = winDescent;
-value = 250;
-},
-{
 name = hheaAscender;
 value = 1000;
 },
