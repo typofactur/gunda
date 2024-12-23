@@ -156,7 +156,7 @@ value = 1000;
 },
 {
 name = typoDescender;
-value = -250;
+value = -300;
 },
 {
 name = typoLineGap;
@@ -177,7 +177,7 @@ value = 1000;
 },
 {
 name = hheaDescender;
-value = -250;
+value = -300;
 },
 {
 name = hheaLineGap;
@@ -189,7 +189,7 @@ value = 1000;
 },
 {
 name = winDescent;
-value = 250;
+value = 300;
 }
 );
 id = "B909A847-908A-4B08-AB88-1EC2F75AB3CA";
