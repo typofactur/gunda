@@ -59,16 +59,17 @@ Unlike many open source distributors, Google Fonts is **curated**. Fonts shipped
 [Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgooglefonts%2Fgooglefonts-project-template%2Fgh-pages%2Fbadges%2FShapingChecks.json
 [Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgooglefonts%2Fgooglefonts-project-template%2Fgh-pages%2Fbadges%2FUniversal.json
 
-Description of your font goes here. We recommend to start with a very short presentation line (the kind you would use on twitter to present your project for example), and then add as much details as necesary :-) Origin of the project, idea of usage, concept of creation… but also number of masters, axes, character sets, etc.
+Gunda is a further development of Epunda. In contrast to strict Epunda Sans, it has softer, friendlier forms that are reminiscent of handwriting, and not just in italics. The strokes are slightly slanted, and the downstrokes are rounded. The small e is also rounded in regular, and the g is a little playful and has two levels. The corners are slightly rounded.
 
-Don't hesitate to create images!
+So far only the styles Regular and Italic exist.
 
-![Sample Image](documentation/image1.png)
-![Sample Image](documentation/image2.png)
+![Sample Image](documentation/gunda_cover.png)
+![Sample Image](documentation/gunda_alphabet.png)
+![Sample Image](documentation/gundaitalic_alphabet.png)
 
 ## About
 
-Description of you and/or organisation goes here.
+typofactur is a German foundry run by the graphic designer Simon Atzbach.
 
 ## Building
 
@@ -88,9 +89,8 @@ When you update your font (new version or new release), please report all notabl
 [Font Versioning](https://github.com/googlefonts/gf-docs/tree/main/Spec#font-versioning) is based on semver. 
 Changelog example:
 
-**26 May 2021. Version 2.13**
-- MAJOR Font turned to a variable font.
-- SIGNIFICANT New Stylistic sets added.
+**23 December 2024. Version 1.000**
+- initial release
 
 ## License
 
