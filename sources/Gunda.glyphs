@@ -177,10 +177,6 @@ name = winDescent;
 value = 250;
 },
 {
-name = typoLineGap;
-value = 0;
-},
-{
 name = hheaAscender;
 value = 1000;
 },

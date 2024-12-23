@@ -178,16 +178,16 @@ name = winDescent;
 value = 250;
 },
 {
-name = typoLineGap;
-value = 0;
-},
-{
 name = hheaAscender;
 value = 1000;
 },
 {
 name = hheaDescender;
 value = -250;
+},
+{
+name = hheaLineGap;
+value = 0;
 }
 );
 id = "AEDC8BCA-1602-4327-8A1C-D108A778CE54";
