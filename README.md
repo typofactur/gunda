@@ -48,16 +48,16 @@ Unlike many open source distributors, Google Fonts is **curated**. Fonts shipped
 
 # My Font
 
-[![][Fontbakery]](https://typofactur.github.io/gunda.git/fontbakery/fontbakery-report.html)
-[![][Universal]](https://typofactur.github.io/gunda.git/fontbakery/fontbakery-report.html)
-[![][GF Profile]](https://typofactur.github.io/gunda.git/fontbakery/fontbakery-report.html)
-[![][Shaping]](https://typofactur.github.io/gunda.git/fontbakery/fontbakery-report.html)
+[![][Fontbakery]](https://typofactur.github.io/gunda/fontbakery/fontbakery-report.html)
+[![][Universal]](https://typofactur.github.io/gunda/fontbakery/fontbakery-report.html)
+[![][GF Profile]](https://typofactur.github.io/gunda/fontbakery/fontbakery-report.html)
+[![][Shaping]](https://typofactur.github.io/gunda/fontbakery/fontbakery-report.html)
 
-[Fontbakery]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftypofactur%2Fgunda.git%2Fgh-pages%2Fbadges%2Foverall.json
-[GF Profile]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftypofactur%2Fgunda.git%2Fgh-pages%2Fbadges%2FGoogleFonts.json
-[Outline Correctness]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftypofactur%2Fgunda.git%2Fgh-pages%2Fbadges%2FOutlineCorrectnessChecks.json
-[Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftypofactur%2Fgunda.git%2Fgh-pages%2Fbadges%2FShapingChecks.json
-[Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftypofactur%2Fgunda.git%2Fgh-pages%2Fbadges%2FUniversal.json
+[Fontbakery]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftypofactur%2Fgunda%2Fgh-pages%2Fbadges%2Foverall.json
+[GF Profile]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftypofactur%2Fgunda%2Fgh-pages%2Fbadges%2FGoogleFonts.json
+[Outline Correctness]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftypofactur%2Fgunda%2Fgh-pages%2Fbadges%2FOutlineCorrectnessChecks.json
+[Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftypofactur%2Fgunda%2Fgh-pages%2Fbadges%2FShapingChecks.json
+[Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftypofactur%2Fgunda%2Fgh-pages%2Fbadges%2FUniversal.json
 
 Gunda is a further development of Epunda. In contrast to strict Epunda Sans, it has softer, friendlier forms that are reminiscent of handwriting, and not just in italics. The strokes are slightly slanted, and the downstrokes are rounded. The small e is also rounded in regular, and the g is a little playful and has two levels. The corners are slightly rounded.
 
