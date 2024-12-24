@@ -20635,19 +20635,6 @@ key = manufacturerURL;
 value = "https://typofactur.de";
 },
 {
-key = postscriptFontName;
-value = Gunda;
-},
-{
-key = postscriptFullNames;
-values = (
-{
-language = dflt;
-value = Gunda;
-}
-);
-},
-{
 key = vendorID;
 value = TYFA;
 }
