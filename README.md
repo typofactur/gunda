@@ -24,7 +24,8 @@ So far only the styles Regular and Italic exist.
 
 ## About
 
-typofactur is a German foundry run by the graphic designer Simon Atzbach.
+typofactur is a German type foundry run by the graphic designer Simon Atzbach.
+Find out more at https://typofactur.de
 
 ## Building
 
