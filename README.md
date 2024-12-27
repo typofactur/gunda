@@ -15,8 +15,10 @@
 [Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftypofactur%2Fgunda%2Fgh-pages%2Fbadges%2FUniversal.json
 
 Gunda is a legibel font with a casual and friendly appearance.
+
 Gunda is a further development of Epunda. In contrast to strict Epunda Sans, it has softer forms that are reminiscent of handwriting, and not just in italics. The small e is also rounded in the regular style, and the tail of the double-storey g is open. The strokes are slanted and the corners are slightly rounded.
-So far only the styles Regular and Italic exist.
+
+So far only the static styles Regular and Italic exist.
 
 ![Sample Image](documentation/gunda_cover.png)
 ![Sample Image](documentation/gunda_alphabet.png)
