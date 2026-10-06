@@ -3,7 +3,8 @@
 .formatVersion = 3;
 DisplayStrings = (
 "◌",
-"̨"
+"̨",
+"̵"
 );
 axes = (
 {
@@ -27276,21 +27277,25 @@ unicode = 8240;
 },
 {
 glyphname = dottedCircle;
-lastChange = "2026-10-06 20:39:47 +0000";
+lastChange = "2026-10-06 21:15:25 +0000";
 layers = (
 {
 anchors = (
 {
-name = _center;
+name = bottom;
+pos = (436,0);
+},
+{
+name = center;
 pos = (436,250);
 },
 {
-name = _ogonek;
+name = ogonek;
 pos = (500,0);
 },
 {
-name = bottom;
-pos = (436,0);
+name = top;
+pos = (436,700);
 }
 );
 layerId = "B909A847-908A-4B08-AB88-1EC2F75AB3CA";
@@ -27535,16 +27540,20 @@ width = 871;
 {
 anchors = (
 {
-name = _center;
+name = bottom;
+pos = (436,0);
+},
+{
+name = center;
 pos = (436,250);
 },
 {
-name = _ogonek;
-pos = (500,0);
+name = ogonek;
+pos = (500,8);
 },
 {
-name = bottom;
-pos = (436,0);
+name = top;
+pos = (436,700);
 }
 );
 layerId = m002;
@@ -29413,12 +29422,12 @@ unicode = 807;
 },
 {
 glyphname = ogonekcomb;
-lastChange = "2026-10-06 20:14:09 +0000";
+lastChange = "2026-10-06 21:14:56 +0000";
 layers = (
 {
 anchors = (
 {
-name = _ogonek;
+name = ogonek;
 pos = (269,0);
 }
 );
@@ -29459,7 +29468,7 @@ width = 470;
 {
 anchors = (
 {
-name = _ogonek;
+name = ogonek;
 pos = (270,0);
 }
 );
@@ -29611,12 +29620,12 @@ unicode = 817;
 },
 {
 glyphname = strokeshortcomb;
-lastChange = "2026-10-06 20:28:09 +0000";
+lastChange = "2026-10-06 21:15:59 +0000";
 layers = (
 {
 anchors = (
 {
-name = _center;
+name = center;
 pos = (185,250);
 }
 );
@@ -29649,7 +29658,7 @@ width = 360;
 {
 anchors = (
 {
-name = _center;
+name = center;
 pos = (173,250);
 }
 );
@@ -30987,7 +30996,7 @@ note = "- Verfetten H +50 V +23, bei runden Versalien V+33
 - anchors ogonek, uni0335
 
 2.0007
-- anchors dotted circle";
+- anchors dotted circle, uni0335";
 properties = (
 {
 key = copyrights;
