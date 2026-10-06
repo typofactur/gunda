@@ -144,7 +144,7 @@ tag = locl;
 },
 {
 automatic = 1;
-code = "sub [zero one two three four five six seven eight nine] [A]' by ordfeminine;
+code = "sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
 sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
 ";
 tag = ordn;
@@ -152,6 +152,8 @@ tag = ordn;
 {
 automatic = 1;
 code = "sub G by G.salt;
+sub I by I.salt;
+sub a by a.salt;
 sub g by g.salt;
 ";
 tag = salt;
@@ -27274,7 +27276,7 @@ unicode = 8240;
 },
 {
 glyphname = dottedCircle;
-lastChange = "2026-10-06 20:30:40 +0000";
+lastChange = "2026-10-06 20:39:47 +0000";
 layers = (
 {
 anchors = (
@@ -27289,10 +27291,6 @@ pos = (500,0);
 {
 name = bottom;
 pos = (436,0);
-},
-{
-name = top;
-pos = (436,700);
 }
 );
 layerId = "B909A847-908A-4B08-AB88-1EC2F75AB3CA";
@@ -27547,10 +27545,6 @@ pos = (500,0);
 {
 name = bottom;
 pos = (436,0);
-},
-{
-name = top;
-pos = (436,700);
 }
 );
 layerId = m002;
@@ -30990,7 +30984,10 @@ note = "- Verfetten H +50 V +23, bei runden Versalien V+33
 - anchors jdotless, circle
 
 2.0006
-- anchors ogonek, uni0335";
+- anchors ogonek, uni0335
+
+2.0007
+- anchors dotted circle";
 properties = (
 {
 key = copyrights;
