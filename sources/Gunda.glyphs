@@ -2,78 +2,8 @@
 .appVersion = "3532";
 .formatVersion = 3;
 DisplayStrings = (
-"éěêëėèē",
-"̀́̋/caroncomb.alt ̂",
-"̌",
-"'/caroncomb.alt",
-"̋",
-"̆",
-"̊",
-"̃",
-"̄",
-",̒",
-"̒",
-"̦",
-"̧",
-"ç",
-"̨",
-"̱",
-"̵",
-"¨",
-"˙`´˝ˆˇ˘˚˜¯¸˛",
-"˙`´",
-"njnƒn",
-"&",
-"¶",
-"§",
-"©me",
-"®R",
-"™",
-"1,5°",
-"|",
-"†",
-"c¢",
-SS$,
-"€",
-"23€",
-"¥",
-"=",
-"+",
-"−",
-"×",
-"÷",
-"≠",
-">",
-"<",
-"≥",
-"≤",
-"±",
-"≈",
-"~",
-"¬",
-"^",
-"%",
-"⁄",
-"¼",
-"2½",
-"¾",
-"%%%‰",
-"‰",
 "◌",
-"/punctuationspace",
-"½",
-"¹",
-"²",
-"³",
-"‹«",
-"‹",
-"»",
-"«",
-" ",
-"/nbspace n n",
-"́",
-"´",
-"ȷ"
+"̨"
 );
 axes = (
 {
@@ -27344,10 +27274,18 @@ unicode = 8240;
 },
 {
 glyphname = dottedCircle;
-lastChange = "2026-10-06 20:02:00 +0000";
+lastChange = "2026-10-06 20:30:40 +0000";
 layers = (
 {
 anchors = (
+{
+name = _center;
+pos = (436,250);
+},
+{
+name = _ogonek;
+pos = (500,0);
+},
 {
 name = bottom;
 pos = (436,0);
@@ -27598,6 +27536,14 @@ width = 871;
 },
 {
 anchors = (
+{
+name = _center;
+pos = (436,250);
+},
+{
+name = _ogonek;
+pos = (500,0);
+},
 {
 name = bottom;
 pos = (436,0);
@@ -29671,7 +29617,7 @@ unicode = 817;
 },
 {
 glyphname = strokeshortcomb;
-lastChange = "2026-10-06 20:15:31 +0000";
+lastChange = "2026-10-06 20:28:09 +0000";
 layers = (
 {
 anchors = (
@@ -31141,5 +31087,5 @@ oV = "180";
 };
 };
 versionMajor = 2;
-versionMinor = 6;
+versionMinor = 7;
 }
