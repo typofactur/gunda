@@ -29079,7 +29079,7 @@ unicode = 771;
 },
 {
 glyphname = macroncomb;
-lastChange = "2026-09-29 18:22:19 +0000";
+lastChange = "2026-10-06 20:15:50 +0000";
 layers = (
 {
 anchors = (
@@ -29127,7 +29127,7 @@ pos = (265,500);
 },
 {
 name = top;
-pos = (265,700);
+pos = (265,723);
 }
 );
 layerId = m002;
@@ -29473,7 +29473,7 @@ unicode = 807;
 },
 {
 glyphname = ogonekcomb;
-lastChange = "2026-09-29 18:34:32 +0000";
+lastChange = "2026-10-06 20:14:09 +0000";
 layers = (
 {
 anchors = (
@@ -29671,7 +29671,7 @@ unicode = 817;
 },
 {
 glyphname = strokeshortcomb;
-lastChange = "2026-09-29 18:35:22 +0000";
+lastChange = "2026-10-06 20:15:31 +0000";
 layers = (
 {
 anchors = (
@@ -31038,7 +31038,13 @@ note = "- Verfetten H +50 V +23, bei runden Versalien V+33
 - Ziffern variabel
 
 #4
-- Akzente variabel";
+- Akzente variabel
+
+2.005
+- anchors jdotless, circle
+
+2.0006
+- anchors ogonek, uni0335";
 properties = (
 {
 key = copyrights;
@@ -31135,5 +31141,5 @@ oV = "180";
 };
 };
 versionMajor = 2;
-versionMinor = 5;
+versionMinor = 6;
 }
