@@ -1,4 +1,4 @@
-#!/Users/simonatzbach/Documents/GitHub/gunda/fontenv/bin/python3.11
+#!/Users/simonatzbach/Documents/GitHub/gunda/fontenv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
