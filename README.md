@@ -50,6 +50,9 @@ Changelog example:
 **23 December 2024. Version 1.000**
 - initial release
 
+**06 October 2026. Version 2.004**
+- Release as variable font
+
 ## License
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.

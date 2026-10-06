@@ -7,8 +7,8 @@
 # sources/ directory, so all paths should be relative to that
 # directory.
 sources:
-  - Gunda.glyphs
-  - Gunda-Italic.glyphs
+  - GundaVF.glyphs
+#  - Gunda-Italic.glyphs
 # You don't have to supply the family name, but builds are slightly
 # faster if you do.
 familyName: "Gunda"
@@ -26,7 +26,7 @@ familyName: "Gunda"
 # The following entries, which are either "true" or "false"
 # determine which targets to build. We turn off OTFs for this demo.
 
-# buildVariable: true
+buildVariable: true
 buildStatic: true
 # buildTTF: true
 buildOTF: true
@@ -34,7 +34,7 @@ buildOTF: true
 
 # The next flags control autohinting.
 # autohintTTF: true
-# autohintOTF: false
+autohintOTF: true
 # ttfaUseScript: false  # Set this to true if your font is not Latin
 
 # The "fix" operation can optionally fix some problems which
