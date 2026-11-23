@@ -65,6 +65,8 @@ Changelog example:
 **23 November 2026. Version 2.008**
 - South America: tilde combinations, saltillo, Oceanian, symbols:  lozenge, brokenbar, daggerdbl, currencies: baht, hyvnia, ruble, rupee, sterling, shequel, won
 
+**23 November 2026. Version 2.009**
+- windescent 400
 
 ## License
 

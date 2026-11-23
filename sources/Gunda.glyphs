@@ -51,7 +51,7 @@ name = "Use Typo Metrics";
 value = 1;
 }
 );
-date = "2026-11-23 11:49:03 +0000";
+date = "2026-11-23 13:28:30 +0000";
 familyName = Gunda;
 featurePrefixes = (
 {
@@ -244,7 +244,7 @@ value = 1000;
 },
 {
 name = winDescent;
-value = 300;
+value = 400;
 }
 );
 iconName = SemiLight;
@@ -33515,7 +33515,10 @@ note = "- Verfetten H +50 V +23, bei runden Versalien V+33
 
 #5
 2.0008
-- South America: tilde comb, saltillo, Oceanian, brokenbar, daggerdbl, baht, hyvnia, ruble, rupee, sterling, shequel, won, lozenge";
+- South America: tilde comb, saltillo, Oceanian, brokenbar, daggerdbl, baht, hyvnia, ruble, rupee, sterling, shequel, won, lozenge
+
+2.0009
+- ";
 properties = (
 {
 key = copyrights;
@@ -33612,5 +33615,5 @@ oV = "180";
 };
 };
 versionMajor = 2;
-versionMinor = 8;
+versionMinor = 9;
 }
