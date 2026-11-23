@@ -53,6 +53,19 @@ Changelog example:
 **06 October 2026. Version 2.004**
 - Release as variable font
 
+**06 October 2026. Version 2.005**
+- anchors jdotless, circle
+
+**06 October 2026. Version 2.0006**
+- anchors ogonek, uni0335
+
+**06 October 2026. Version 2.0007**
+- anchors dotted circle, ogonek, strokeshortcomb
+
+**23 November 2026. Version 2.008**
+- South America: tilde combinations, saltillo, Oceanian, symbols:  lozenge, brokenbar, daggerdbl, currencies: baht, hyvnia, ruble, rupee, sterling, shequel, won
+
+
 ## License
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
